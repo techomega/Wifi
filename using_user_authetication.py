@@ -4,7 +4,7 @@ import json
 import facebook
 import requests
 
-token = "EAAP21xkIcuwBAHYMQseZBZC2SabBajs6AZBqv6FYZAxKbZA7hn8C6HZBk9cHvFmvNzyz6LPETRgWIbqtIujPkOWtZBHHJywmgZBZAxTNHXcyBWNUx9435qSk4Bn9kAZBJPKEloWNacW4nvRKEr5YyjJYHzLn1klZBCW9ivnoFQwrN2zGwZDZD"
+token = "EAAP21xkIcuwBAC8rnZB8DIltkyoifUJKRnJiJV0gCK7vPsdGZCrSkMk7gUwTckQLbxuLkKZB1qQE2sukamQo58wZCPV0a11SnCySAgZA0tgcKOaYSli6xBZAZCGHfOuVJybVGCAgXTgYVGwT9VQ9WPoKdpVsHFnVVBNQtA0kDN9Ran8Ozgjce787xPmx7ZCP2P1PcCoZAuWj64QZDZD"
 graph = facebook.GraphAPI(token)
 all_fields={
     'message',
